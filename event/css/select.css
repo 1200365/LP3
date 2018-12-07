@@ -1,0 +1,17 @@
+/*main.phpで使用したcsc*/
+h4.user{
+    position: relative;
+    top:25;
+    left:10%;
+}
+
+/*メイン画面へ戻るボタンの位置*/
+#back_main{
+    position: relative;
+    top:50px;
+    left:80%;
+}
+
+table.rist{
+    border: 2px #000000 soild;
+}

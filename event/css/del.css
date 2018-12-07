@@ -1,0 +1,14 @@
+/*枠囲いの表示*/
+.box{
+    padding: 0.5em 1em;
+    margin: 0 auto;
+    font-weight: bold;
+    border: solid 3px #000000;
+    display:inline-block;
+}
+.box2{
+    padding: 0.4em 1em;
+    margin: 2em 0;
+    border: double 5px #000000;
+    display:inline-block;
+}
